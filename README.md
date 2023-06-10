@@ -1,8 +1,8 @@
-# GPP Coding language
+# LSharp Coding language
 This is a simple python made PROGRAMMING library 
 
 
-```G++``` Can give you built in apps, games.
+```L#``` Can give you built in apps, games.
 
 tired of using operators in vars? Just use the *solve* function in G++
 render = print
