@@ -11,3 +11,4 @@ ifadv-this is same to ifelse method but this contains elif also
 solve-this takes two numbers and a operation or math thing then prints the result.
 rand.int(from,to) - by the name you can understand.
 Soon...**
+Note: this might have updates, you can check the source to see
