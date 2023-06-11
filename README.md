@@ -4,7 +4,8 @@ This is a simple python made PROGRAMMING library
 
 ```L#``` Can give you built in apps, games.
 
-tired of using operators in vars? Just use the *solve* function in G++
+tired of using operators in vars? Just use the `solve`
+function in G++
 render = print
 get = input
 And so on
